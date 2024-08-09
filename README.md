@@ -4,7 +4,7 @@
 
 - Tenses
   - Present
-    - [Simple](paragraphs/beginner/Tenses/present-simple.md)
+    - [Simple](https://test-english.com/grammar-points/a1/present-simple/)
     - [Continuous]()
     - [Perfect]()
     - [Perfect Continuous]()
