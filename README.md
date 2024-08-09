@@ -18,8 +18,8 @@
     - [Perfect](https://www.perfect-english-grammar.com/past-perfect.html)
     - [Perfect Continuous](https://www.perfect-english-grammar.com/future-perfect-continuous.html)
 - Grammar
-  - [Be going to]()
-  - [There is/are]()
+  - [Be going to](https://www.englishclub.com/grammar/verbs-m_going-to.php)
+  - [There is/are](https://www.englishclub.com/grammar/subject-verb-agreement-there-is-there-are.php)
   - [Imperative]()
 - Docs
   - [Irregular verbs list](https://www.perfect-english-grammar.com/irregular-verbs-exercises.html)
