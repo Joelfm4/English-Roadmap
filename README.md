@@ -21,7 +21,7 @@
 - Grammar
   - [Be going to]()
   - [There is/are]()
-  - [Imperative](paragraphs/beginner/Imperative.md)
+  - [Imperative]()
 - Docs
   - [Irregular verbs list](https://www.perfect-english-grammar.com/irregular-verbs-exercises.html)
   - [Modal verbs list](https://www.perfect-english-grammar.com/modal-verbs.html)
