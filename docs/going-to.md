@@ -1,194 +1,181 @@
-# Be going to construction 
+## Construção "to be going to"
 
-## Когда употребляется конструкция to be going to?
+### Quando usamos a construção "to be going to"?
 
-Эту конструкцию мы используем в следующих случаях:
+Essa construção é usada nas seguintes situações:
 
-**1. Когда заранее планируем что-либо сделать.**
+**1. Quando planejamos algo com antecedência.**
 
-*(она собирается испечь торт; он собирается помыть машину)*
+*(Ela vai assar um bolo; ele vai lavar o carro)*
 
-**2. Когда говорим о том, что что-то произойдет с большой вероятностью и для этого есть все признаки.** 
+**2. Quando falamos sobre algo que vai acontecer com grande probabilidade e há sinais claros para isso.**
 
-*(собирается дождь, посмотри на эти облака)*
+*(Vai chover, veja essas nuvens)*
 
-## Схема образования утвердительного предложения
+### Formação de uma frase afirmativa
 
-Оборот to be going to состоит из двух частей: изменяемой и неизменяемой.
+O termo "to be going to" consiste em duas partes: uma parte variável e uma parte invariável.
 
-**Первая часть** — глагол **to be**, меняется в зависимости от того, кто совершает действия. 
+**A primeira parte** é o verbo **to be**, que varia conforme o sujeito da ação.
 
-В настоящем времени глагол to be имеет **3** формы: 
+No tempo presente, o verbo "to be" tem **3** formas:
 
-1. Am — используется со словом  **I**. 
+1. Am — usado com o pronome **I**. 
+2. Is — usado com os pronomes de singular **he, she, it**. 
+3. Are — usado com os pronomes de plural: **you, we, they**.
 
-2. Is — используется со словами единственного числа **he, she, it**. 
+A segunda parte — **going to**, permanece *invariável*.
 
-3. Are — используется со словами множественного числа: **you, we, they**.
+| Pronome | To be | going to | verbo |
+|---------|-------|----------|-------|
+| I       | am    | going to | sleep |
+| You     | are   | going to | eat   |
+| We      | are   | going to | sleep |
+| They    | are   | going to | eat   |
+| She     | is    | going to | dance |
+| He      | is    | going to | dance |
+| It      | is    | going to | dance |
 
-Вторая часть — **going to**, всегда остается *неизменной*.
+### Exemplos:
+1. > They **are going to** swim in the pool.
+   > 
+   > *Eles vão nadar na piscina.*
 
-| Pronoun | To be | going to | verb |
-|---------|-------|----------|------|
-| I | am |
-| You | are |
-| We | are |            | sleep
-| They | are | going to | eat
-| She | is |            | dance
-| He | is |
-| It | is | 
-
-### Примеры:
-1. > They **are going to** swim in the pool. 
+2. > She **is going to** find a job.
    >
-   > *Они собираются поплавать в бассейне.*
-
-2. > She *is going to* find a job. 
-   >
-   > *Она собирается найти работу.*
+   > *Ela vai encontrar um emprego.*
 
 3. > We **are going to** buy a car.
    >
-   > *Мы собираемся купить машину.*
+   > *Nós vamos comprar um carro.*
 
-## Как можно сократить to be going to? 
+### Como abreviar "to be going to"?
 
-В неформальном общении, например, в разговоре или переписке с друзьями, **to be going to**
-можно сократить, как **to be gonna**. Также очень часто такое сокращение 
-можно услышать в текстах песен, фильмах и сериалах.  
+Na conversa informal, como em conversas com amigos ou em mensagens, **"to be going to"** pode ser abreviado para **"gonna"**. Esse tipo de abreviação é muito comum em músicas, filmes e séries.
 
 1. > I **am gonna** go home.
    >
-   > *Я собираюсь пойти домой.* 
-   
+   > *Eu vou para casa.*
+
 2. > We **are gonna** dance all night.
    >
-   > *Мы собираемся танцевать всю ночь.* 
+   > *Nós vamos dançar a noite toda.*
 
-## Схема построения отрицательного предложения
+### Formação de uma frase negativa
 
-| Pronoun | To be | not | going to | verb |
-|---------|-------|-----|---------|------|
-| I | am |
-| You | are |
-| We | are |                    | sleep
-| They | are | not | going to   | eat
-| She | is |                    | dance
-| He | is |
-| It | is | 
+| Pronome | To be | not | going to | verbo |
+|---------|-------|-----|----------|-------|
+| I       | am    | not | going to | sleep |
+| You     | are   | not | going to | eat   |
+| We      | are   | not | going to | sleep |
+| They    | are   | not | going to | eat   |
+| She     | is    | not | going to | dance |
+| He      | is    | not | going to | dance |
+| It      | is    | not | going to | dance |
 
-### Примеры:
-
+### Exemplos:
 1. > She **is not going to** call him.
    >
-   > Она не собирается звонить ему.
+   > *Ela não vai ligar para ele.*
 
-2. > We **are not going to** study Spanish. 
+2. > We **are not going to** study Spanish.
    >
-   > Мы не собираемся изучать испанский язык. 
-   
-3. > I **am not going to** write this text. 
+   > *Nós não vamos estudar espanhol.*
+
+3. > I **am not going to** write this text.
    >
-   > Я не собираюсь записывать этот текст.
+   > *Eu não vou escrever esse texto.*
 
-## Как задать вопрос с to be going to?
+### Como fazer perguntas com "to be going to"?
 
-Чтобы спросить, собирается ли кто-то что-либо делать, глагол to be ставится на первое место
+Para perguntar se alguém vai fazer algo, o verbo "to be" é colocado no início da pergunta.
 
-| To be | Pronoun | going to | verb |
-|---------|-------|----------|------|
-| Am | i |
-| Are | you |
-| Are | we |              | sleep
-| Are | they | going to   | eat
-| Is | he |              | dance
-| Is | she |
-| Is | it | 
+| To be | Pronome | going to | verbo |
+|-------|---------|----------|-------|
+| Am    | I       | going to | sleep |
+| Are   | you     | going to | eat   |
+| Are   | we      | going to | sleep |
+| Are   | they    | going to | eat   |
+| Is    | he      | going to | dance |
+| Is    | she     | going to | dance |
+| Is    | it      | going to | dance |
 
-### Примеры:
-
+### Exemplos:
 1. > **Are you going to** get up early?
    >
-   > *Ты собираешься рано вставать?*
+   > *Você vai acordar cedo?*
 
 2. > **Is she going to** play volleyball?
    > 
-   > *Она собирается играть в волейбол?*
+   > *Ela vai jogar vôlei?*
 
 3. > **Are they going to** buy a cake?
    >
-   > *Они собираются купить торт?*
+   > *Eles vão comprar um bolo?*
 
-## Специальные вопросы c to be going to
+### Perguntas especiais com "to be going to"
 
-С этой конструкцией также можно задать вопросы со словами:
+Com essa construção, também é possível fazer perguntas com palavras como:
 
-* what — что; 
-* where — где; 
-* when — когда; 
-* who — кто; 
-* how (often/long) — как (часто/долго); 
-* which — какой; 
-* why — почему. 
+* what — o quê;
+* where — onde;
+* when — quando;
+* who — quem;
+* how (often/long) — como (frequente/durante quanto tempo);
+* which — qual;
+* why — por que.
 
-Эти слова ставятся на первое место. Остальной порядок слов остается таким же, как в обычном вопросе.
+Essas palavras são colocadas no início da pergunta. A ordem das palavras no restante da pergunta permanece a mesma.
 
-| Question | To be | Pronoun | going to | verb |
-|----------|-------|---------|----------|------|
-| | Am | i |
-| | Are | you |
-| What | Are | we |              | sleep
-| When | Are | they | going to   | eat
-| Where | Is | he |              | dance
-| | Is | she |
-| | Is | it | 
+| Pergunta | To be | Pronome | going to | verbo |
+|----------|-------|---------|----------|-------|
+|          | Am    | I       | going to | sleep |
+|          | Are   | you     | going to | eat   |
+| What     | Are   | we      | going to | sleep |
+| When     | Are   | they    | going to | eat   |
+| Where    | Is    | he      | going to | dance |
+|          | Is    | she     | going to | dance |
+|          | Is    | it      | going to | dance |
 
-### Примеры:
-
-1. > **How long are you going to** do your homework? 
+### Exemplos:
+1. > **How long are you going to** do your homework?
    > 
-   > *Как долго ты собираешься делать твою домашнюю работу?* 
-   
-2. > **When is she going to** cook dinner? 
+   > *Quanto tempo você vai fazer sua lição de casa?*
+
+2. > **When is she going to** cook dinner?
    >
-   > *Когда она собирается готовить ужин?* 
-   
-3. > **What are they going to** sell? 
+   > *Quando ela vai preparar o jantar?*
+
+3. > **What are they going to** sell?
    > 
-   > *Что они собираются продать?*
+   > *O que eles vão vender?*
 
-## Использование конструкции to be going to в прошедшем времени
+### Usando "to be going to" no passado
 
-Как ни удивительно, эта конструкция может использоваться в прошедшем
-времени. Её можно использовать, когда мы говорим, что собирались что-то 
-сделать, но так и не сделали. Чтобы построить такое предложение, глагол to be 
-ставится в прошедшую форму. 
+Curiosamente, essa construção também pode ser usada no passado. Ela é usada quando falamos sobre algo que íamos fazer, mas não fizemos. Para formar a frase no passado, o verbo "to be" é colocado na forma passada.
 
-1. Для единственного числа (I, she, he, it) — was. 
+1. Para o singular (I, she, he, it) — was.
+2. Para o plural (you, we, they) — were.
 
-2. Для множественного числа (you, we, they) — were. 
+Por exemplo: "Ele ia viajar, mas não conseguiu por causa de problemas financeiros."
 
-Например: "Он собирался отправиться в путешествие, но не смог из-за проблем с деньгами".  
+| Pronome | To be | going to | verbo |
+|---------|-------|----------|-------|
+| I       | was   | going to | sleep |
+| You     | were  | going to | eat   |
+| We      | were  | going to | sleep |
+| They    | were  | going to | eat   |
+| She     | was   | going to | dance |
+| He      | was   | going to | dance |
+| It      | was   | going to | dance |
 
-| Pronoun | To be | going to | verb |
-|---------|-------|----------|------|
-| I | was |
-| You | were |
-| We | were |            | sleep
-| They | were | going to | eat
-| She | was |            | dance
-| He | was |
-| It | was | 
-
-### Примеры:
-1. > She **was going to** go to the party, but her father did not let her go. 
-   > 
-   > *Она собиралась идти на вечеринку, но ее отец не пустил ее.* 
-   
-2. > They were going to work at the weekend, but then decided to meet friends. 
+### Exemplos:
+1. > She **was going to** go to the party, but her father did not let her go.
    >
-   > *Они собирались работать на выходных, но потом решили встретиться с друзьями.*
-   
-Итак, теперь вы все знаете о конструкции to be going to.
+   > *Ela ia para a festa, mas seu pai não a deixou ir.*
 
-[Источник](https://easyspeak.ru/blog/vsyo-o-grammatike/to-be-going-to-do-something)
+2. > They **were going to** work at the weekend, but then decided to meet friends.
+   >
+   > *Eles iam trabalhar no fim de semana, mas decidiram encontrar amigos.*
+
+Agora você sabe tudo sobre a construção "to be going to".
