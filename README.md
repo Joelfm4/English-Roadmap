@@ -26,7 +26,8 @@
   - [Irregular verbs list](docs/Irregular%20Verbs%20List.md)
   - [Modal verbs list](docs/Modal%20verbs%20List.md)
 
-
+- Extra
+  - [Contractions](https://www.sjsu.edu/writingcenter/docs/handouts/Contractions.pdf) 
 
 ## TO-DO
 
