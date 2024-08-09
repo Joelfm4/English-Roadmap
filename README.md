@@ -28,20 +28,7 @@
 - Extra
   - [Contractions](https://www.sjsu.edu/writingcenter/docs/handouts/Contractions.pdf) 
 
-## TO-DO
 
-- [ ] Present:
-  - [ ] Continuous
-  - [ ] Perfect
-  - [ ] Perfect Continuous
-- [ ] Past:
-  - [ ] Continuous
-  - [ ] Perfect
-  - [ ] Perfect Continuous
-- [ ] Future
-  - [ ] Continuous
-  - [ ] Perfect
-  - [ ] Perfect Continuous
      
 ## Credits
 
