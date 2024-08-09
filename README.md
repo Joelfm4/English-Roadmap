@@ -7,7 +7,7 @@
     - [Simple](https://test-english.com/grammar-points/a1/present-simple/)
     - [Continuous](https://www.perfect-english-grammar.com/present-continuous-exercise-1.html)
     - [Perfect](https://www.perfect-english-grammar.com/present-perfect.html)
-    - [Perfect Continuous]()
+    - [Perfect Continuous](https://www.perfect-english-grammar.com/present-perfect-continuous.html)
   - Past
     - [Simple](paragraphs/beginner/Tenses/past-simple.md)
     - [Continuous]()
@@ -19,8 +19,8 @@
     - [Perfect]()
     - [Perfect Continuous]()
 - Grammar
-  - [Be going to](paragraphs/beginner/going-to.md)
-  - [There is/are](paragraphs/beginner/There%20is(are)%20construction.md)
+  - [Be going to]()
+  - [There is/are]()
   - [Imperative](paragraphs/beginner/Imperative.md)
 - Docs
   - [Irregular verbs list](https://www.perfect-english-grammar.com/irregular-verbs-exercises.html)
