@@ -8,7 +8,7 @@
     - [Perfect](https://www.perfect-english-grammar.com/present-perfect.html)
     - [Perfect Continuous](https://www.perfect-english-grammar.com/present-perfect-continuous.html)
   - Past
-    - [Simple](paragraphs/beginner/Tenses/past-simple.md)
+    - [Simple](https://www.perfect-english-grammar.com/past-simple.html)
     - [Continuous](https://www.perfect-english-grammar.com/past-continuous.html)
     - [Perfect](https://www.perfect-english-grammar.com/past-perfect.html)
     - [Perfect Continuous](https://www.perfect-english-grammar.com/past-perfect-continuous.html)
