@@ -32,5 +32,5 @@
      
 ## Credits
 
-This roadmap was inspired by the [Russian roadmap](https://github.com/tehrelt/English-roadmap). Special thanks to the original authors for their work and inspiration.
+This roadmap was inspired by the [tehrelt roadmap](https://github.com/tehrelt/English-roadmap). Special thanks to the original authors for their work and inspiration.
 
