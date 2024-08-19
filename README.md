@@ -18,12 +18,11 @@
     - [Perfect](https://www.perfect-english-grammar.com/future-perfect.html)
     - [Perfect Continuous](https://www.perfect-english-grammar.com/future-perfect-continuous.html)
 - Grammar
-  - [Be going to](https://www.englishclub.com/grammar/verbs-m_going-to.php)
-  - [There is/are](https://www.englishclub.com/grammar/subject-verb-agreement-there-is-there-are.php)
-  - [Imperative](https://test-english.com/grammar-points/a1/imperative-sit-dont-talk/3/)
+  - [Complete grammar list](https://test-english.com/grammar-points/contents/)
+
 - Docs
-  - [Irregular verbs list](https://www.perfect-english-grammar.com/irregular-verbs-exercises.html)
-  - [Modal verbs list](https://www.perfect-english-grammar.com/modal-verbs.html)
+  - [Irregular verbs list](https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/irregular-verbs)
+  - [Modal verbs list](https://www.bristol.ac.uk/academic-language/media/BEAP/2.3/index.html)
 
 - Extra
   - [Contractions](https://www.sjsu.edu/writingcenter/docs/handouts/Contractions.pdf) 
