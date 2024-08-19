@@ -18,7 +18,7 @@
     - [Perfect](https://www.perfect-english-grammar.com/future-perfect.html)
     - [Perfect Continuous](https://www.perfect-english-grammar.com/future-perfect-continuous.html)
 - Grammar
-  - [Complete grammar list](https://test-english.com/grammar-points/contents/)
+  - [Complete grammar list](https://test-english.com/grammar-points/contents/) - Only do the parts that you don't feel comfortable with
 
 - Docs
   - [Irregular verbs list](https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/irregular-verbs)
@@ -31,5 +31,5 @@
      
 ## Credits
 
-This roadmap was inspired by the [tehrelt roadmap](https://github.com/tehrelt/English-roadmap). Special thanks to the original authors for their work and inspiration.
+This roadmap was inspired by the [tehrelt roadmap](https://github.com/tehrelt/English-roadmap)—special thanks to the original authors for their work and inspiration.
 
